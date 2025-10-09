@@ -1,0 +1,18 @@
+# Excel file manipulation
+openpyxl==3.1.5
+
+# Markdown parsing
+markdown==3.9
+
+# HTML parsing for BeautifulSoup
+beautifulsoup4==4.14.2
+
+# XML file support for openpyxl
+et-xmlfile==2.0.0
+
+# CSS selector support for BeautifulSoup
+soupsieve==2.8
+
+# Type hints support
+typing-extensions==4.15.0
+
