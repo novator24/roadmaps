@@ -24,3 +24,4 @@ echo "python solution.py"
 echo ""
 echo "Для деактивации виртуального окружения:"
 echo "deactivate"
+
