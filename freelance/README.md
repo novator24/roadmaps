@@ -1,4 +1,4 @@
-# FREELANCE
+# FREELANCE с возможностью проводить 10% оплаты через LABORX.COM / ETHLANCE.IO 
 
 0. Надо изучить TG bot пополнения bybit от 300000 и более @raketacash (м. Деловой центр, Башня Федерации) 
 
