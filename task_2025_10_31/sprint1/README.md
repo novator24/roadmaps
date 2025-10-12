@@ -6,7 +6,7 @@
 ###    Что сделано:
     1. смета https://airtable.com/appRZPdT1xIqRWG4w/shrvUajlIy5Iy8cgY
     2. анкета https://airtable.com/applhkxTFXB5CpVZj/shrsjspLGVd6BWgYn
-###    Что мещает:
+###    Что мешает:
     1. Нужно актуализировать смету с владельцем продукта
     2. Нужно актуализировать анкету с владельцем продукта
     
