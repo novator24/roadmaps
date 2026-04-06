@@ -38,6 +38,6 @@
 
 ### Установите Node.js, создайте React-приложение (npx create-react-app nft-site), добавьте ethers.js, web3.js.
 
-    Реализуйте frontend: подключение MetaMask, список NFT (fetch из контракта), mint/buy функции, дизайн с Tailwind.
+### Реализуйте frontend: подключение MetaMask, список NFT (fetch из контракта), mint/buy функции, дизайн с Tailwind.
 
-    Деплойте сайт на Vercel/Netlify, протестируйте продажу/подарок (transferFrom), добавьте OpenSea-совместимость.
+### Деплойте сайт на Vercel/Netlify, протестируйте продажу/подарок (transferFrom), добавьте OpenSea-совместимость.
