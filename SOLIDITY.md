@@ -2,7 +2,7 @@
 
 Образец - https://nftpricefloor.com/ru/bored-ape-yacht-club
 
-Примеры - https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide
+Уроки - https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide
 
 ### Вот подробный план из 20 шагов для вашего знакомого: от генерации рисунков до запуска сайта для их продажи. План ориентирован на Solidity (ERC721), Polygon для низких комиссий и самостоятельный маркетплейс.
 
