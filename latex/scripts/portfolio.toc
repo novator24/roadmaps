@@ -50,13 +50,31 @@
 \contentsline {subsection}{\numberline {6.6}Совокупный риск, ожидания и роль страхования}{38}{subsection.6.6}%
 \contentsline {subsection}{\numberline {6.7}Выводы главы}{39}{subsection.6.7}%
 \contentsline {section}{\numberline {7}Применение теории алгоритмов для аудита ИИ-систем}{39}{section.7}%
-\contentsline {section}{\numberline {8}Криптографические методы защиты данных телематики}{47}{section.8}%
-\contentsline {section}{\numberline {9}Актуарные расчеты тарифов для автономного транспорта}{55}{section.9}%
-\contentsline {section}{\numberline {10}Моделирование солидарной ответственности участников цепи поставок}{63}{section.10}%
-\contentsline {section}{\numberline {11}Оптимизация страховых резервов с использованием машинного обучения}{71}{section.11}%
-\contentsline {section}{\numberline {12}Оценка влияния "галлюцинаций" ИИ на логистические издержки}{79}{section.12}%
-\contentsline {section}{\numberline {13}Разработка динамического страхового покрытия на основе IoT}{87}{section.13}%
-\contentsline {section}{\numberline {14}Правовые и этические ограничения математических моделей страхования}{95}{section.14}%
-\contentsline {section}{\numberline {15}Эмпирическая апробация предложенных моделей на данных транспортных компаний}{103}{section.15}%
-\contentsline {section}{ЗАКЛЮЧЕНИЕ}{111}{section*.3}%
-\contentsline {section}{СПИСОК ЛИТЕРАТУРЫ}{112}{section*.4}%
+\contentsline {subsection}{\numberline {7.1}Аудит как алгоритмическая задача}{39}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Неразрешимость полной верификации}{40}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Сложность: от разрешимости к полиномиальному времени}{41}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Графы решений, кратчайшие пути и потоки}{41}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Структуры данных аудита: хеш, деревья, журналы}{42}{subsection.7.5}%
+\contentsline {subsection}{\numberline {7.6}Практический контур аудита и выводы главы}{42}{subsection.7.6}%
+\contentsline {section}{\numberline {8}Криптографические методы защиты данных телематики}{43}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Телематика как страховой актив и объект угрозы}{43}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Сравнения и арифметика вычетов}{44}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Целостность журнала: хеширование}{44}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Подлинность источника и открытый ключ}{45}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.5}Доверие в цепочке поставок данных}{46}{subsection.8.5}%
+\contentsline {subsection}{\numberline {8.6}Связь с тарифом и выводы главы}{46}{subsection.8.6}%
+\contentsline {section}{\numberline {9}Актуарные расчеты тарифов для автономного транспорта}{47}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Объект тарификации: от водителя к системе}{47}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Экспозиция, частота и тяжесть}{47}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Уровни автономности и надбавка за объяснимость}{48}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}Телематический UBI и динамический тариф}{48}{subsection.9.4}%
+\contentsline {subsection}{\numberline {9.5}Лимиты, перестрахование и пилотные данные}{49}{subsection.9.5}%
+\contentsline {subsection}{\numberline {9.6}Выводы главы}{49}{subsection.9.6}%
+\contentsline {section}{\numberline {10}Моделирование солидарной ответственности участников цепи поставок}{50}{section.10}%
+\contentsline {section}{\numberline {11}Оптимизация страховых резервов с использованием машинного обучения}{58}{section.11}%
+\contentsline {section}{\numberline {12}Оценка влияния "галлюцинаций" ИИ на логистические издержки}{66}{section.12}%
+\contentsline {section}{\numberline {13}Разработка динамического страхового покрытия на основе IoT}{74}{section.13}%
+\contentsline {section}{\numberline {14}Правовые и этические ограничения математических моделей страхования}{82}{section.14}%
+\contentsline {section}{\numberline {15}Эмпирическая апробация предложенных моделей на данных транспортных компаний}{90}{section.15}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{98}{section*.3}%
+\contentsline {section}{СПИСОК ЛИТЕРАТУРЫ}{99}{section*.4}%
