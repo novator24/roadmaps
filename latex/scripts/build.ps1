@@ -1,11 +1,21 @@
-Write-Host "Сборка LaTeX файла portfolio.tex..." -ForegroundColor Cyan
-pdflatex portfolio.tex
-Write-Host "Повторная сборка для генерации оглавления..." -ForegroundColor Cyan
-pdflatex portfolio.tex
+$ErrorActionPreference = "Continue"
+$scriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
+Set-Location $scriptDir
+
+$scoopPdfLatex = Join-Path $env:USERPROFILE "scoop\apps\miktex\current\texmfs\install\miktex\bin\x64"
+if (Test-Path (Join-Path $scoopPdfLatex "pdflatex.exe")) {
+    $env:Path = "$scoopPdfLatex;" + $env:Path
+}
+
+Write-Host "Building portfolio.tex..." -ForegroundColor Cyan
+& pdflatex -interaction=nonstopmode portfolio.tex
+Write-Host "Second pass for table of contents..." -ForegroundColor Cyan
+& pdflatex -interaction=nonstopmode portfolio.tex
 
 if (Test-Path "portfolio.pdf") {
-    Rename-Item -Path "portfolio.pdf" -NewName "PORTFOLIO.pdf" -Force
-    Write-Host "Сборка успешно завершена! Файл PORTFOLIO.pdf создан." -ForegroundColor Green
+    Move-Item -Path "portfolio.pdf" -Destination "PORTFOLIO.pdf" -Force
+    Write-Host "Build finished: PORTFOLIO.pdf" -ForegroundColor Green
 } else {
-    Write-Host "Ошибка при сборке PDF. Убедитесь, что установлен дистрибутив LaTeX (например, MiKTeX или TeX Live)." -ForegroundColor Red
+    Write-Host "PDF was not created. Install a LaTeX distribution (MiKTeX or TeX Live)." -ForegroundColor Red
+    exit 1
 }
