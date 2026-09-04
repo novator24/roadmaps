@@ -1,80 +1,98 @@
 \babel@toc {russian}{}\relax 
-\contentsline {section}{ВВЕДЕНИЕ}{4}{section*.2}%
-\contentsline {section}{\numberline {1}Теоретические основы страхования ответственности ИИ}{7}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Предмет исследования и определение страхования рисков ИИ}{7}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Почему традиционные страховые продукты не покрывают риски ИИ}{8}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}Микроэкономическая природа страхового рынка ИИ}{9}{subsection.1.3}%
-\contentsline {subsection}{\numberline {1.4}<<Тихое>> и <<утвержденное>> покрытие}{10}{subsection.1.4}%
-\contentsline {subsection}{\numberline {1.5}Классификация объектов страхования и карта рисков}{10}{subsection.1.5}%
-\contentsline {subsection}{\numberline {1.6}Модель солидарной ответственности участников жизненного цикла}{11}{subsection.1.6}%
-\contentsline {subsection}{\numberline {1.7}Новые методы тарификации и динамическое покрытие}{12}{subsection.1.7}%
-\contentsline {subsection}{\numberline {1.8}Нормативные предпосылки и выводы главы}{13}{subsection.1.8}%
-\contentsline {section}{\numberline {2}Анализ рисков применения ИИ в логистике}{14}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Логистический контур как объект риска}{14}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Регуляторная классификация рисков информационной безопасности ИИ}{14}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Галлюцинации, дрейф данных и технологические сбои}{16}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Кибератаки и специфические угрозы технологиям ИИ}{16}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}Риски цепочки поставок и открытых компонентов}{17}{subsection.2.5}%
-\contentsline {subsection}{\numberline {2.6}Отраслевые сценарии: телематика, UBI и параметрическое покрытие}{18}{subsection.2.6}%
-\contentsline {subsection}{\numberline {2.7}Сводная карта рисков логистического ИИ и выводы главы}{19}{subsection.2.7}%
-\contentsline {section}{\numberline {3}Математические модели оценки вероятности сбоев ИИ}{20}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Вероятностное пространство инцидента}{20}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Условная вероятность, полная вероятность и формула Байеса}{20}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Случайные величины убытка и хвостовые характеристики}{21}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Экспоненциальная надежность и пуассоновский поток отказов}{22}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}Цепи Маркова состояний ИИ-системы}{23}{subsection.3.5}%
-\contentsline {subsection}{\numberline {3.6}Булевы функции работоспособности}{23}{subsection.3.6}%
-\contentsline {subsection}{\numberline {3.7}Графы, сети и деревья принятия решений}{24}{subsection.3.7}%
-\contentsline {subsection}{\numberline {3.8}Связь вероятностных оценок с тарифом и выводы главы}{25}{subsection.3.8}%
-\contentsline {section}{\numberline {4}Эконометрическое моделирование убытков в логистике}{25}{section.4}%
-\contentsline {subsection}{\numberline {4.1}От вероятностной модели к оцениванию по данным}{25}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Линейная регрессия как базовый инструмент}{26}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Ограниченные зависимые переменные: частота, тяжесть, тобит}{27}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Эндогенность внедрения ИИ, инструменты и ОММ}{28}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Панельные данные транспортных компаний}{29}{subsection.4.5}%
-\contentsline {subsection}{\numberline {4.6}Временные ряды совокупных убытков и волатильность}{30}{subsection.4.6}%
-\contentsline {subsection}{\numberline {4.7}Практическая спецификация и выводы главы}{30}{subsection.4.7}%
-\contentsline {section}{\numberline {5}Микроэкономический анализ рынка страхования ИИ}{31}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Страхование как выбор в условиях неопределенности}{31}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Предложение страховщика и конкурентное равновесие}{32}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Неблагоприятный отбор}{32}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}Моральный риск}{33}{subsection.5.4}%
-\contentsline {subsection}{\numberline {5.5}Рыночная структура, ценовая дискриминация и информация}{34}{subsection.5.5}%
-\contentsline {subsection}{\numberline {5.6}Равновесие рынка ИИ-страхования и выводы главы}{34}{subsection.5.6}%
-\contentsline {section}{\numberline {6}Макроэкономические последствия внедрения ИИ в логистику}{35}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Три горизонта анализа}{35}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Производственная функция и производительность}{35}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}Краткий период: IS--LM и AD--AS}{36}{subsection.6.3}%
-\contentsline {subsection}{\numberline {6.4}Среднесрочный период: рынок труда транспорта}{37}{subsection.6.4}%
-\contentsline {subsection}{\numberline {6.5}Долгосрочный рост, сбережения и капитал}{37}{subsection.6.5}%
-\contentsline {subsection}{\numberline {6.6}Совокупный риск, ожидания и роль страхования}{38}{subsection.6.6}%
-\contentsline {subsection}{\numberline {6.7}Выводы главы}{39}{subsection.6.7}%
-\contentsline {section}{\numberline {7}Применение теории алгоритмов для аудита ИИ-систем}{39}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Аудит как алгоритмическая задача}{39}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}Неразрешимость полной верификации}{40}{subsection.7.2}%
-\contentsline {subsection}{\numberline {7.3}Сложность: от разрешимости к полиномиальному времени}{41}{subsection.7.3}%
-\contentsline {subsection}{\numberline {7.4}Графы решений, кратчайшие пути и потоки}{41}{subsection.7.4}%
-\contentsline {subsection}{\numberline {7.5}Структуры данных аудита: хеш, деревья, журналы}{42}{subsection.7.5}%
-\contentsline {subsection}{\numberline {7.6}Практический контур аудита и выводы главы}{42}{subsection.7.6}%
-\contentsline {section}{\numberline {8}Криптографические методы защиты данных телематики}{43}{section.8}%
-\contentsline {subsection}{\numberline {8.1}Телематика как страховой актив и объект угрозы}{43}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2}Сравнения и арифметика вычетов}{44}{subsection.8.2}%
-\contentsline {subsection}{\numberline {8.3}Целостность журнала: хеширование}{44}{subsection.8.3}%
-\contentsline {subsection}{\numberline {8.4}Подлинность источника и открытый ключ}{45}{subsection.8.4}%
-\contentsline {subsection}{\numberline {8.5}Доверие в цепочке поставок данных}{46}{subsection.8.5}%
-\contentsline {subsection}{\numberline {8.6}Связь с тарифом и выводы главы}{46}{subsection.8.6}%
-\contentsline {section}{\numberline {9}Актуарные расчеты тарифов для автономного транспорта}{47}{section.9}%
-\contentsline {subsection}{\numberline {9.1}Объект тарификации: от водителя к системе}{47}{subsection.9.1}%
-\contentsline {subsection}{\numberline {9.2}Экспозиция, частота и тяжесть}{47}{subsection.9.2}%
-\contentsline {subsection}{\numberline {9.3}Уровни автономности и надбавка за объяснимость}{48}{subsection.9.3}%
-\contentsline {subsection}{\numberline {9.4}Телематический UBI и динамический тариф}{48}{subsection.9.4}%
-\contentsline {subsection}{\numberline {9.5}Лимиты, перестрахование и пилотные данные}{49}{subsection.9.5}%
-\contentsline {subsection}{\numberline {9.6}Выводы главы}{49}{subsection.9.6}%
-\contentsline {section}{\numberline {10}Моделирование солидарной ответственности участников цепи поставок}{50}{section.10}%
-\contentsline {section}{\numberline {11}Оптимизация страховых резервов с использованием машинного обучения}{58}{section.11}%
-\contentsline {section}{\numberline {12}Оценка влияния "галлюцинаций" ИИ на логистические издержки}{66}{section.12}%
-\contentsline {section}{\numberline {13}Разработка динамического страхового покрытия на основе IoT}{74}{section.13}%
-\contentsline {section}{\numberline {14}Правовые и этические ограничения математических моделей страхования}{82}{section.14}%
-\contentsline {section}{\numberline {15}Эмпирическая апробация предложенных моделей на данных транспортных компаний}{90}{section.15}%
-\contentsline {section}{ЗАКЛЮЧЕНИЕ}{98}{section*.3}%
-\contentsline {section}{СПИСОК ЛИТЕРАТУРЫ}{99}{section*.4}%
+\contentsline {section}{ВВЕДЕНИЕ}{5}{section*.2}%
+\contentsline {section}{\numberline {1}Теоретические основы страхования ответственности ИИ}{8}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Предмет исследования и определение страхования рисков ИИ}{8}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Почему традиционные страховые продукты не покрывают риски ИИ}{9}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Микроэкономическая природа страхового рынка ИИ}{10}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}<<Тихое>> и <<утвержденное>> покрытие}{11}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Классификация объектов страхования и карта рисков}{11}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Модель солидарной ответственности участников жизненного цикла}{12}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.7}Новые методы тарификации и динамическое покрытие}{13}{subsection.1.7}%
+\contentsline {subsection}{\numberline {1.8}Нормативные предпосылки и выводы главы}{14}{subsection.1.8}%
+\contentsline {section}{\numberline {2}Анализ рисков применения ИИ в логистике}{15}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Логистический контур как объект риска}{15}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Регуляторная классификация рисков информационной безопасности ИИ}{15}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Галлюцинации, дрейф данных и технологические сбои}{17}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Кибератаки и специфические угрозы технологиям ИИ}{17}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Риски цепочки поставок и открытых компонентов}{18}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Отраслевые сценарии: телематика, UBI и параметрическое покрытие}{19}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Сводная карта рисков логистического ИИ и выводы главы}{20}{subsection.2.7}%
+\contentsline {section}{\numberline {3}Математические модели оценки вероятности сбоев ИИ}{21}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Вероятностное пространство инцидента}{21}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Условная вероятность, полная вероятность и формула Байеса}{21}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Случайные величины убытка и хвостовые характеристики}{22}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Экспоненциальная надежность и пуассоновский поток отказов}{23}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Цепи Маркова состояний ИИ-системы}{24}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Булевы функции работоспособности}{24}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Графы, сети и деревья принятия решений}{25}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Связь вероятностных оценок с тарифом и выводы главы}{26}{subsection.3.8}%
+\contentsline {section}{\numberline {4}Эконометрическое моделирование убытков в логистике}{26}{section.4}%
+\contentsline {subsection}{\numberline {4.1}От вероятностной модели к оцениванию по данным}{26}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Линейная регрессия как базовый инструмент}{27}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Ограниченные зависимые переменные: частота, тяжесть, тобит}{28}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Эндогенность внедрения ИИ, инструменты и ОММ}{29}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Панельные данные транспортных компаний}{30}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Временные ряды совокупных убытков и волатильность}{31}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Практическая спецификация и выводы главы}{31}{subsection.4.7}%
+\contentsline {section}{\numberline {5}Микроэкономический анализ рынка страхования ИИ}{32}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Страхование как выбор в условиях неопределенности}{32}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Предложение страховщика и конкурентное равновесие}{33}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Неблагоприятный отбор}{33}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Моральный риск}{34}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Рыночная структура, ценовая дискриминация и информация}{35}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Равновесие рынка ИИ-страхования и выводы главы}{35}{subsection.5.6}%
+\contentsline {section}{\numberline {6}Макроэкономические последствия внедрения ИИ в логистику}{36}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Три горизонта анализа}{36}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Производственная функция и производительность}{36}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Краткий период: IS--LM и AD--AS}{37}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Среднесрочный период: рынок труда транспорта}{38}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Долгосрочный рост, сбережения и капитал}{38}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}Совокупный риск, ожидания и роль страхования}{39}{subsection.6.6}%
+\contentsline {subsection}{\numberline {6.7}Выводы главы}{40}{subsection.6.7}%
+\contentsline {section}{\numberline {7}Применение теории алгоритмов для аудита ИИ-систем}{40}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Аудит как алгоритмическая задача}{40}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Неразрешимость полной верификации}{41}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Сложность: от разрешимости к полиномиальному времени}{42}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Графы решений, кратчайшие пути и потоки}{42}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Структуры данных аудита: хеш, деревья, журналы}{43}{subsection.7.5}%
+\contentsline {subsection}{\numberline {7.6}Практический контур аудита и выводы главы}{43}{subsection.7.6}%
+\contentsline {section}{\numberline {8}Криптографические методы защиты данных телематики}{44}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Телематика как страховой актив и объект угрозы}{44}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Сравнения и арифметика вычетов}{45}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Целостность журнала: хеширование}{45}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Подлинность источника и открытый ключ}{46}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.5}Доверие в цепочке поставок данных}{47}{subsection.8.5}%
+\contentsline {subsection}{\numberline {8.6}Связь с тарифом и выводы главы}{47}{subsection.8.6}%
+\contentsline {section}{\numberline {9}Актуарные расчеты тарифов для автономного транспорта}{48}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Объект тарификации: от водителя к системе}{48}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Экспозиция, частота и тяжесть}{48}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Уровни автономности и надбавка за объяснимость}{49}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}Телематический UBI и динамический тариф}{49}{subsection.9.4}%
+\contentsline {subsection}{\numberline {9.5}Лимиты, перестрахование и пилотные данные}{50}{subsection.9.5}%
+\contentsline {subsection}{\numberline {9.6}Выводы главы}{50}{subsection.9.6}%
+\contentsline {section}{\numberline {10}Моделирование солидарной ответственности участников цепи поставок}{51}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Почему ответственность нельзя назначить одному лицу}{51}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Кооперативная игра и вектор Шепли}{52}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}Некооперативная игра усилий и равновесие Нэша}{52}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}Наблюдаемость, Байес и суброгация}{53}{subsection.10.4}%
+\contentsline {subsection}{\numberline {10.5}Страховой контракт как механизм}{54}{subsection.10.5}%
+\contentsline {subsection}{\numberline {10.6}Выводы главы}{54}{subsection.10.6}%
+\contentsline {section}{\numberline {11}Оптимизация страховых резервов с использованием машинного обучения}{54}{section.11}%
+\contentsline {subsection}{\numberline {11.1}Резерв как прогноз невыплаченного убытка}{54}{subsection.11.1}%
+\contentsline {subsection}{\numberline {11.2}От агрегатного треугольника к индивидуальному резерву}{55}{subsection.11.2}%
+\contentsline {subsection}{\numberline {11.3}Обучение модели резерва и риск переобучения}{55}{subsection.11.3}%
+\contentsline {subsection}{\numberline {11.4}Капитал, квантили и машинный хвост}{56}{subsection.11.4}%
+\contentsline {subsection}{\numberline {11.5}Оптимизация: минимум капитала при ограничении на риск}{57}{subsection.11.5}%
+\contentsline {subsection}{\numberline {11.6}Выводы главы}{57}{subsection.11.6}%
+\contentsline {section}{\numberline {12}Оценка влияния галлюцинаций ИИ на логистические издержки}{57}{section.12}%
+\contentsline {subsection}{\numberline {12.1}Определение и отличие от других сбоев}{57}{subsection.12.1}%
+\contentsline {subsection}{\numberline {12.2}Издержки как случайная величина}{58}{subsection.12.2}%
+\contentsline {subsection}{\numberline {12.3}Правдоподобие как множитель ущерба}{58}{subsection.12.3}%
+\contentsline {subsection}{\numberline {12.4}Маршрут, запасы и каскад}{59}{subsection.12.4}%
+\contentsline {subsection}{\numberline {12.5}Тариф, исключение и измерение}{59}{subsection.12.5}%
+\contentsline {subsection}{\numberline {12.6}Выводы главы}{60}{subsection.12.6}%
+\contentsline {section}{\numberline {13}Разработка динамического страхового покрытия на основе IoT}{60}{section.13}%
+\contentsline {section}{\numberline {14}Правовые и этические ограничения математических моделей страхования}{68}{section.14}%
+\contentsline {section}{\numberline {15}Эмпирическая апробация предложенных моделей на данных транспортных компаний}{76}{section.15}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{84}{section*.3}%
+\contentsline {section}{СПИСОК ЛИТЕРАТУРЫ}{85}{section*.4}%
